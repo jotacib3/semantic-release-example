@@ -1,0 +1,26 @@
+{
+  "name": "@jotica/example",
+  "version": "0.0.0-development",
+  "main": "index.js",
+  "repository": "https://github.com/jotacib3/example.git",
+  "author": "jotacib3 <j.lopez2@estudiantes.matcom.uh.cu>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "semantic-release": "^17.3.9"
+  },
+  "scripts": {
+    "semantic-release": "semantic-release",
+    "commit": "cz"
+  },
+  "devDependencies": {
+    "commitizen": "^4.2.3",
+    "cz-conventional-changelog": "3.3.0",
+    "semantic-release": "^17.3.9"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
