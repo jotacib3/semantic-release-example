@@ -1,6 +1,6 @@
 {
   "name": "@jotica/example",
-  "version": "0.0.0-development",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "https://github.com/jotacib3/example.git",
   "author": "jotacib3 <j.lopez2@estudiantes.matcom.uh.cu>",
