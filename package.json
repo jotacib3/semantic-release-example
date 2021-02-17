@@ -5,7 +5,6 @@
   "repository": "https://github.com/jotacib3/example.git",
   "author": "jotacib3 <j.lopez2@estudiantes.matcom.uh.cu>",
   "license": "MIT",
-  "private": false,
   "dependencies": {
     "semantic-release": "^17.3.9"
   },
