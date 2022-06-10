@@ -6,7 +6,7 @@
   "author": "jotacib3 <j.lopez2@estudiantes.matcom.uh.cu>",
   "license": "MIT",
   "dependencies": {
-    "semantic-release": "^17.3.9"
+    "semantic-release": "^19.0.3"
   },
   "scripts": {
     "semantic-release": "semantic-release",
@@ -17,7 +17,7 @@
     "@semantic-release/git": "^9.0.0",
     "commitizen": "^4.2.3",
     "cz-conventional-changelog": "3.3.0",
-    "semantic-release": "^17.3.9"
+    "semantic-release": "^19.0.3"
   },
   "config": {
     "commitizen": {
